@@ -1,6 +1,7 @@
 # VisBCI
 Pytorch codes of our paper "Improving Cross-State and Cross-Subject Visual ERP-based BCI with Temporal Modeling and Adversarial Training"
 
+The
 Brain-computer interface (BCI) is a useful device for people without relying on peripheral nerves and muscles. However, the performance of the event-related potential (ERP)-based BCI declines when applying it to the real environments, especially in cross-state and cross-subject conditions. 
 For addressing this problem, we propose a general method with hierarchical temporal modeling and adversarial training to improve the visual ERP-based BCI under different levels of auditory workload states. Our framework is shown below.
 
