@@ -6,7 +6,7 @@ Brain-computer interface (BCI) is a useful device for people without relying on 
 
 For addressing this problem, we propose a general method with **hierarchical temporal modeling** and **adversarial training** to enhance the performance of the visual ERP-based BCI under different levels of auditory workload states. The artitecture of our model is shown below.
 
-<img src="https://github.com/aispeech-lab/VisBCI/blob/main/assets/framework.jpg", "scale=0.7">
+<img src="https://github.com/aispeech-lab/VisBCI/blob/main/assets/framework.jpg", width="600">
 
 ## The Results                                                                
 We conduct our experiments on one published visual ERP-based BCI task with 10 subjects and 3 different auditory workload states. The results demonstrate that our method can work effectively under different situations and achieve satisfactory performance compared with the only subject-specific baseline. In the single-subject task and mixed-subject task, the averaged result of all the repetitions and states overpass the baseline by 6.54% and 6.66%, respectively, and only slight 0.15% is declined in the cross-subject task.
