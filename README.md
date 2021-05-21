@@ -19,9 +19,10 @@ If you have the interest in our work, or use this code or part of it, please cit
 please consider citing:
 ```bash
 @article{hao2020wase,
-  title={Wase: Learning When to Attend for Speaker Extraction  
-in Cocktail Party Environments},
-  author={Hao, Yunzhe and Xu, Jiaming and Zhang, Peng and Xu, Bo}
+  title={Improving Cross-State and Cross-Subject  
+Visual ERP-based BCI with  
+Temporal Modeling and Adversarial Training},
+  author={Ni, Ziyi and Xu, Jiaming and Wu, Yuwei and Li, Mengfan and Xu, Guizhi and Xu, Bo}
 }
 ```
 For more detailed descirption, you can further explore the whole paper with [this link](https://github.com/aispeech-lab/VisBCI).
