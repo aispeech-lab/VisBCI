@@ -18,10 +18,9 @@ We conduct our experiments on one published visual ERP-based BCI task with 10 su
 If you have the interest in our work, or use this code or part of it, please cite us!  
 please consider citing:
 ```bash
-@article{hao2020wase,
+@article{ni2021TNSRE,
   title={Improving Cross-State and Cross-Subject  
-Visual ERP-based BCI with  
-Temporal Modeling and Adversarial Training},
+Visual ERP-based BCI with Temporal Modeling and Adversarial Training},
   author={Ni, Ziyi and Xu, Jiaming and Wu, Yuwei and Li, Mengfan and Xu, Guizhi and Xu, Bo}
 }
 ```
