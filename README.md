@@ -15,7 +15,7 @@ We conduct our experiments on one published visual ERP-based BCI task with 10 su
 <div align=center><img src="https://github.com/aispeech-lab/VisBCI/blob/main/assets/acc-all.png"></div>
 
 The more direct comparison between the mixed-subject task and specific-subject task under all repetitions is reported here, as the supplementary material of our paper. It is easy to see that the results obtained in the mixed-subject task are even better than the results of the specific-subject task in many cases.
-<div align=center><img src="https://github.com/aispeech-lab/VisBCI/blob/main/assets/mixed_compare_specific.png"></div>
+<div align=center><img src="https://github.com/aispeech-lab/VisBCI/blob/main/assets/mixed_compare.png"></div>
 
 ## Cite us
 If you have the interest in our work, or use this code or part of it, please cite us!  
