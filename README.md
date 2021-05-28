@@ -16,13 +16,17 @@ We conduct our experiments on one published visual ERP-based BCI task with 10 su
 
 ## Cite us
 If you have the interest in our work, or use this code or part of it, please cite us!  
-please consider citing:
+Consider citing:
 ```bash
-@article{ni2021TNSRE,
+@article{ni2021bci,
   title={Improving Cross-State and Cross-Subject  
 Visual ERP-based BCI with Temporal Modeling and Adversarial Training},
   author={Ni, Ziyi and Xu, Jiaming and Wu, Yuwei and Li, Mengfan and Xu, Guizhi and Xu, Bo}
 }
 ```
-For more detailed descirption, you can further explore the whole paper with [this link](https://github.com/aispeech-lab/VisBCI).
+For more detailed descirption, you can further explore the whole paper with [this link](https://github.com/aispeech-lab/VisBCI).  
+
+## Contact us
+Any other questions, feel free to contact us at niziyi2021@ia.ac.cn or jiaming.xu@ia.ac.cn 
+
 
