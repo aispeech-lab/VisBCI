@@ -1,5 +1,5 @@
 # VisBCI
-Pytorch codes of our paper [*"Improving Cross-State and Cross-Subject Visual ERP-based BCI with Temporal Modeling and Adversarial Training"*](https://github.com/aispeech-lab/VisBCI), which is under peer-review now. 
+Pytorch codes of our paper [*"Improving Cross-State and Cross-Subject Visual ERP-based BCI with Temporal Modeling and Adversarial Training"*](https://github.com/aispeech-lab/VisBCI), which is undergoing peer-review. 
 
 ## A Simple Introduciton 
 Brain-computer interface (BCI) is a useful device for people without relying on peripheral nerves and muscles. However, the performance of the event-related potential (ERP)-based BCI declines when applying it to the real environments, especially in cross-state and cross-subject conditions. 
