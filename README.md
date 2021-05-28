@@ -14,6 +14,9 @@ The rationality of our method here is that the ERP-based BCI is based on electro
 We conduct our experiments on one published visual ERP-based BCI task with 10 subjects and 3 different auditory workload states. The results demonstrate that our method can work effectively under different situations and achieve satisfactory performance compared with the only subject-specific baseline. In the specific-subject task and mixed-subject task, the averaged result of all the repetitions and states overpass the baseline by 6.54% and 6.66%, respectively, and only slight 0.15% is declined in the cross-subject task. Direct comparison between the performance of our model and the original baseline in specific-subject, mixed-subject and cross-subject tasks is as follows. 
 <div align=center><img src="https://github.com/aispeech-lab/VisBCI/blob/main/assets/acc-all.png"></div>
 
+The more direct comparison between the mixed-subject task and specific-subject task under all repetitions is reported here, as the supplementary material of our paper. It is easy to see that the results obtained in the mixed-subject task are even better than the results of the specific-subject task in many cases.
+<div align=center><img src="https://github.com/aispeech-lab/VisBCI/blob/main/assets/mixed_compare_specific.png"></div>
+
 ## Cite us
 If you have the interest in our work, or use this code or part of it, please cite us!  
 Consider citing:
