@@ -20,8 +20,8 @@ The more direct comparison between the mixed-subject task and specific-subject t
 There are two subjects performing not well in almost all tasks, here we report the performance of our model after removing these two "bad" subjects. The updated comparison of the results of 13 subjects with original grand-averaged results of 15 subjects are shown below, and ERP waveforms in the six most relevant channels (‘PO3’, ‘POZ’, ‘PO4’, ‘O1’, ‘OZ’, ‘O2’) of some subjects including two 'bad' subjects for demonstration are also reported.
 <div align=center><img src="https://github.com/aispeech-lab/VisBCI/blob/main/assets/specific-2.png"></div>
 <div align=center><img src="https://github.com/aispeech-lab/VisBCI/blob/main/assets/cross-2.png"></div>
-<div align=center><img src="https://github.com/aispeech-lab/VisBCI/blob/main/assets/waveform-1~3.png"></div>
-<div align=center><img src="https://github.com/aispeech-lab/VisBCI/blob/main/assets/waveform-4~6.png"></div>
+<div align=center><img src="https://github.com/aispeech-lab/VisBCI/blob/main/assets/waveform-1~3.jpg"></div>
+<div align=center><img src="https://github.com/aispeech-lab/VisBCI/blob/main/assets/waveform-4~6.jpg"></div>
 The ERP waveforms are for every 10 subjects of all the target stimuli in L state in 6 typical channels, with two ”bad” subjects (subject-6 and subject-10) highlighted.
 
 ## Cite us
