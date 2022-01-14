@@ -21,7 +21,7 @@ There are two subjects performing not well in almost all tasks, here we report t
 <div align=center><img src="https://github.com/aispeech-lab/VisBCI/blob/main/assets/specific-2.png"></div>
 <div align=center><img src="https://github.com/aispeech-lab/VisBCI/blob/main/assets/cross-2.png"></div>
 
-And ERP waveforms in the six most relevant channels (‘PO3’, ‘POZ’, ‘PO4’, ‘O1’, ‘OZ’, ‘O2’) of some subjects (10) including two 'bad' subjects for demonstration are also reported.
+For demonstration, ERP waveforms in the six most relevant channels (‘PO3’, ‘POZ’, ‘PO4’, ‘O1’, ‘OZ’, ‘O2’) of some subjects (10) including two 'bad' subjects are also reported.
 <div align=center><img src="https://github.com/aispeech-lab/VisBCI/blob/main/assets/waveform-1~3.jpg"></div>
 <div align=center><img src="https://github.com/aispeech-lab/VisBCI/blob/main/assets/waveform-4~6.jpg"></div>
 The ERP waveforms are for every 10 subjects of all the target stimuli in L state in 6 typical channels, with two ”bad” subjects (subject-6 and subject-10) highlighted. Two less obvious and standard curves are observed, which are difficult to recognize ERP waveforms in almost all the above channels. The ordinate represents the magnitude of
