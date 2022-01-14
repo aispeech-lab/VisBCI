@@ -17,6 +17,10 @@ We conduct our experiments on one published visual ERP-based BCI task with 10 su
 The more direct comparison between the mixed-subject task and specific-subject task under all repetitions is reported here, as the supplementary material of our paper. It is easy to see that the results obtained in the mixed-subject task are even better than the results of the specific-subject task in many cases.
 <div align=center><img src="https://github.com/aispeech-lab/VisBCI/blob/main/assets/mixed_compare_specific.png"></div>
 
+There are two subjects performing not well in almost all tasks, here we report the performance of our model after removing these two "bad" subjects. The updated comparison of the results of 13 subjects with original grand-averaged results of 15 subjects, and ERP waveforms in the six most relevant channels (‘PO3’, ‘POZ’, ‘PO4’, ‘O1’, ‘OZ’, ‘O2’) of these subjects are also shown below.
+<div align=center><img src="https://github.com/aispeech-lab/VisBCI/blob/main/assets/specific-2.png"></div>
+<div align=center><img src="https://github.com/aispeech-lab/VisBCI/blob/main/assets/cross-2.png"></div>
+
 ## Cite us
 If you have the interest in our work, or use this code or part of it, please cite us!  
 Consider citing:
