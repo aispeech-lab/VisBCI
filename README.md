@@ -1,5 +1,5 @@
 # VisBCI
-Pytorch codes of our paper [*"Improving Cross-State and Cross-Subject Visual ERP-based BCI with Temporal Modeling and Adversarial Training"*](https://github.com/aispeech-lab/VisBCI), which is undergoing peer-review. 
+Pytorch codes of our paper [*"Improving Cross-State and Cross-Subject Visual ERP-based BCI with Temporal Modeling and Adversarial Training"*](https://doi.org/10.1109/TNSRE.2022.3150007), which is published in TNSRE. 
 
 ## A Simple Introduciton 
 Brain-computer interface (BCI) is a useful device for people without relying on peripheral nerves and muscles. However, the performance of the event-related potential (ERP)-based BCI declines when applying it to the real environments, especially in cross-state and cross-subject conditions. 
@@ -32,13 +32,17 @@ the ERP amplitude and the abscissa represents the time after the target stimulat
 If you have the interest in our work, or use this code or part of it, please cite us!  
 Consider citing:
 ```bash
-@article{ni2021bci,
-  title={Improving Cross-State and Cross-Subject  
-Visual ERP-based BCI with Temporal Modeling and Adversarial Training},
-  author={Ni, Ziyi and Xu, Jiaming and Wu, Yuwei and Li, Mengfan and Xu, Guizhi and Xu, Bo}
-}
+@article{ni2022bci,  
+  author={Ni, Ziyi and Xu, Jiaming and Wu, Yuwei and Li, Mengfan and Xu, Guizhi and Xu, Bo},
+  title={Improving Cross-State and Cross-Subject Visual ERP-Based BCI With Temporal Modeling and Adversarial Training},  
+  journal={IEEE Transactions on Neural Systems and Rehabilitation Engineering},
+  year={2022},
+  volume={30},
+  number={},
+  pages={369-379},
+  doi={10.1109/TNSRE.2022.3150007}}
 ```
-For more detailed descirption, you can further explore the whole paper with [this link](https://github.com/aispeech-lab/VisBCI).  
+For more detailed descirption, you can further explore the whole paper with [this link](https://doi.org/10.1109/TNSRE.2022.3150007).  
 
 ## Contact us
 Any other questions, feel free to contact us at niziyi2021@ia.ac.cn or jiaming.xu@ia.ac.cn 
